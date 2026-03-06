@@ -1,6 +1,6 @@
-Proyecto – Depresión en estudiantes en India (Data Analytics)
+# Proyecto – Depresión en estudiantes en India (Data Analytics)
 
-Proyecto final – Curso Data Analytics (CoderHouse)
+### Proyecto final – Curso Data Analytics (CoderHouse)
 
 Este proyecto analiza la problemática de la depresión en estudiantes en India a partir de un conjunto de datos que contiene información sobre distintos factores que pueden influir en la salud mental de los estudiantes.
 
@@ -8,30 +8,30 @@ El objetivo del análisis es explorar los datos, identificar patrones relevantes
 
 Para la presentación del análisis se desarrolló un dashboard interactivo en Power BI, donde se muestran indicadores y visualizaciones que facilitan la interpretación de los datos.
 
-Contenido del repositorio
+## Contenido del repositorio
 
 El repositorio incluye los siguientes archivos:
 
-Informe del proyecto (.pdf)
+* Informe del proyecto (.pdf)
 Documento donde se describe el análisis realizado, la metodología utilizada y las conclusiones obtenidas.
 
-Dashboard de Power BI (.pbix)
+* Dashboard de Power BI (.pbix)
 Archivo que contiene la visualización interactiva del proyecto.
 
-Requisitos para visualizar los archivos
+## Requisitos para visualizar los archivos
 
 Para abrir los archivos incluidos en el repositorio se necesitan los siguientes programas:
 
-PDF Reader para visualizar el informe del proyecto.
+* PDF Reader para visualizar el informe del proyecto.
 
-Microsoft Power BI Desktop para explorar el dashboard interactivo.
+* Microsoft Power BI Desktop para explorar el dashboard interactivo.
 
-Herramientas utilizadas
+## Herramientas utilizadas
 
-Power BI
+* Power BI
 
-Análisis de datos
+* Análisis de datos
 
-Visualización de datos
+* Visualización de datos
 
-Interpretación de indicadores
+* Interpretación de indicadores
